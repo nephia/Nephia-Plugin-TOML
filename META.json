@@ -42,6 +42,8 @@
       },
       "runtime" : {
          "requires" : {
+            "Nephia" : "0",
+            "TOML" : "0",
             "perl" : "5.008005"
          }
       },
@@ -52,5 +54,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/nephia/Nephia-Plugin-TOML/issues"
+      },
+      "homepage" : "https://github.com/nephia/Nephia-Plugin-TOML",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/nephia/Nephia-Plugin-TOML.git",
+         "web" : "https://github.com/nephia/Nephia-Plugin-TOML"
+      }
+   },
    "version" : "0.01"
 }
