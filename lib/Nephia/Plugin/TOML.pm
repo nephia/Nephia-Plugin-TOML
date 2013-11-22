@@ -6,7 +6,7 @@ use parent 'Nephia::Plugin';
 use TOML ();
 use Nephia::Response;
 
-our $VERSION = "0.01";
+our $VERSION = "0.80";
 
 sub exports { qw/ toml_res / }
 
