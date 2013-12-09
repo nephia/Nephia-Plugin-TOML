@@ -1,0 +1,2 @@
+name = "Nephia-Plugin-TOML"
+badges = ["travis", "coveralls"]

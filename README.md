@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nephia/Nephia-Plugin-TOML.png?branch=master)](https://travis-ci.org/nephia/Nephia-Plugin-TOML) [![Coverage Status](https://coveralls.io/repos/nephia/Nephia-Plugin-TOML/badge.png?branch=master)](https://coveralls.io/r/nephia/Nephia-Plugin-TOML?branch=master)
 # NAME
 
 Nephia::Plugin::TOML - A plugin for Nephia that provides TOML Response DSL
